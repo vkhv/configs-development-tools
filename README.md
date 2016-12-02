@@ -2,58 +2,54 @@
 
 ## bootstrap install
 
-curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/README.md | bash
+curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/install.sh | bash
 
 ## fish shell
 
-echo '
-alias gs 'git status'
 
-alias ga 'git add -A'
+* alias gs 'git status'
 
-alias gc 'git commit '
+* alias ga 'git add -A'
 
-alias gp 'git push'
+* alias gc 'git commit '
 
-alias gst "git status"
+* alias gp 'git push'
 
-alias gr "git reset --hard"
+* alias gst "git status"
 
-alias :wq "exit"
+* alias gr "git reset --hard"
 
-alias :q "exit"
+* alias :wq "exit"
 
-alias r "rm -rf"
+* alias :q "exit"
 
-' > .config/fish/config.fish
+* alias r "rm -rf"
+
 
 
 ## vim
 
-echo '
-
 " Switching to the normal mode by pressing df, fd
 
-im df <Esc>
+* im df <Esc>
 
-im fd <Esc>
+* im fd <Esc>
 
 " Saving file by sa, as
 
-map sa :w <Enter>
+* map sa :w <Enter>
 
-map as :w <Enter>
+* map as :w <Enter>
 
-vm sa :w <Enter>
+* vm sa :w <Enter>
 
-vm as :w <Enter>
+* vm as :w <Enter>
 
 " Closing vim - cl
 
-map cl :q <Enter>
+* map cl :q <Enter>
 
-map lc :q <Enter>
+* map lc :q <Enter>
 
-' > .vimrc.local
 
 
