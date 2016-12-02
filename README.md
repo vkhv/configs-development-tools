@@ -4,7 +4,7 @@
 *Requires [vim.spf13](http://vim.spf13.com/) and [fishshell](http://fishshell.com/)*
 
 ```
-curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/install.sh | bash
+curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/🛠.sh | bash
 ```
 
 
