@@ -4,10 +4,10 @@
 ## fish shell
 
 echo '
-alias gs 'git status'
-alias ga 'git add -A'
-alias gc 'git commit '
-alias gp 'git push'
+alias gs "git status"
+alias ga "git add -A"
+alias gc "git commit"
+alias gp "git push"
 alias gst "git status"
 alias gr "git reset --hard"
 alias :wq "exit"
