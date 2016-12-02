@@ -1,6 +1,7 @@
-# configs-development-tools
+# configs-development-tools 🛠
+## Easy Installation
 
-## bootstrap install
+> Requires http://vim.spf13.com/ and http://fishshell.com/
 
 curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/install.sh | bash
 
