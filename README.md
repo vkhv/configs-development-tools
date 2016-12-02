@@ -29,27 +29,11 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 ## vim
 
-" Switching to the normal mode by pressing df, fd
-
-* im df <Esc>
-
-* im fd <Esc>
+* Switching to the normal mode by pressing df, fd
 
 " Saving file by sa, as
 
-* map sa :w <Enter>
-
-* map as :w <Enter>
-
-* vm sa :w <Enter>
-
-* vm as :w <Enter>
-
-" Closing vim - cl
-
-* map cl :q <Enter>
-
-* map lc :q <Enter>
+" Closing vim - cl, lc
 
 
 
