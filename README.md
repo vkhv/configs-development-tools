@@ -32,16 +32,27 @@ alias r "rm -rf"
 
 echo '
 " Switching to the normal mode by pressing df, fd
+
 im df <Esc>
+
 im fd <Esc>
+
 " Saving file by sa, as
+
 map sa :w <Enter>
+
 map as :w <Enter>
+
 vm sa :w <Enter>
+
 vm as :w <Enter>
+
 " Closing vim - cl
+
 map cl :q <Enter>
+
 map lc :q <Enter>
+
 ' > .vimrc.local
 
 
