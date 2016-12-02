@@ -8,13 +8,21 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/REA
 
 echo '
 alias gs 'git status'
+
 alias ga 'git add -A'
+
 alias gc 'git commit '
+
 alias gp 'git push'
+
 alias gst "git status"
+
 alias gr "git reset --hard"
+
 alias :wq "exit"
+
 alias :q "exit"
+
 alias r "rm -rf"
 
 ' > .config/fish/config.fish
