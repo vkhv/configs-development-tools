@@ -8,7 +8,7 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 ```
 
 
-## fish shell
+## fish shell features
 
 
 * alias gs 'git status'
@@ -31,7 +31,7 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 
 
-## vim
+## vim features
 
 * Switching to the normal mode by pressing df, fd
 
