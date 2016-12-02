@@ -1,4 +1,4 @@
-# configs-development-tools 🛠
+# configs-development-tools
 
 Yet another 💩 to simplify moving to another host.
 
