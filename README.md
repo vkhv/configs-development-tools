@@ -1,4 +1,7 @@
 # configs-development-tools 🛠
+
+Yet another 💩 to simplify moving to another host.
+
 ## Easy Installation
 
 *Requires [vim.spf13](http://vim.spf13.com/) and [fishshell](http://fishshell.com/)*
