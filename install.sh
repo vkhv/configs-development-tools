@@ -13,7 +13,7 @@ alias gr "git reset --hard"
 alias :wq "exit"
 alias :q "exit"
 alias r "rm -rf"
-' > .config/fish/config.fish
+' >> .config/fish/config.fish
 
 
 ## vim
@@ -30,6 +30,6 @@ vm as :w <Enter>
 " Closing vim - cl
 map cl :q <Enter>
 map lc :q <Enter>
-' > .vimrc.local
+' >> .vimrc.local
 
 
