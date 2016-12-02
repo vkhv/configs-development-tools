@@ -1,7 +1,7 @@
 # configs-development-tools 🛠
 ## Easy Installation
 
-> Requires http://vim.spf13.com/ and http://fishshell.com/
+*Requires [vim.spf13](http://vim.spf13.com/) and [fishshell](http://fishshell.com/)*
 
 curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/install.sh | bash
 
