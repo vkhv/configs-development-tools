@@ -31,6 +31,7 @@ alias r "rm -rf"
 ## vim
 
 echo '
+
 " Switching to the normal mode by pressing df, fd
 
 im df <Esc>
