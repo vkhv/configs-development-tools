@@ -32,4 +32,4 @@ map cl :q <Enter>
 map lc :q <Enter>
 ' >> .vimrc.local
 
-
+echo 'Successfully installed'
