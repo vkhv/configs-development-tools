@@ -1,10 +1,6 @@
 
 # configs-development-tools
 
-## bootstrap install
-
-curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/README.md | bash
-
 ## fish shell
 
 echo '
