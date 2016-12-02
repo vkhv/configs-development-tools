@@ -35,9 +35,9 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 * Switching to the normal mode by pressing df, fd
 
-" Saving file by sa, as
+* Saving file by sa, as
 
-" Closing vim - cl, lc
+* Closing vim - cl, lc
 
 
 
