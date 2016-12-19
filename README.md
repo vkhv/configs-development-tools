@@ -18,6 +18,8 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 * alias ga 'git add -A'
 
+* alias gl "git log"
+
 * alias gc 'git commit '
 
 * alias gp 'git push'
