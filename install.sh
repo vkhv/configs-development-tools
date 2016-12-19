@@ -13,6 +13,7 @@ alias gr "git reset --hard"
 alias :wq "exit"
 alias :q "exit"
 alias r "rm -rf"
+alias gl "git log"
 ' >> .config/fish/config.fish
 
 
