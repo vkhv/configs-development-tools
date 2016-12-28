@@ -34,6 +34,9 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 * alias r "rm -rf"
 
+* export JOBS=max - tells npm to compile and install all your native addons in parallel and not sequentially. This greatly increases installation times.
+
+
 
 
 ## vim features
