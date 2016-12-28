@@ -14,6 +14,7 @@ alias :wq "exit"
 alias :q "exit"
 alias r "rm -rf"
 alias gl "git log"
+export JOBS=max
 ' >> .config/fish/config.fish
 
 
@@ -32,5 +33,6 @@ vm as :w <Enter>
 map cl :q <Enter>
 map lc :q <Enter>
 ' >> .vimrc.local
+
 
 echo 'Successfully installed'
