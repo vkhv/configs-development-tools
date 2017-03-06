@@ -47,5 +47,6 @@ curl https://raw.githubusercontent.com/vkhv/configs-development-tools/master/ins
 
 * Closing vim - cl, lc
 
+* Go to next tab - Tab
 
 
