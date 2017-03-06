@@ -34,5 +34,7 @@ map cl :q <Enter>
 map lc :q <Enter>
 ' >> .vimrc.local
 
+map <Tab> :bNext <Enter>
+
 
 echo 'Successfully installed'
