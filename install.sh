@@ -32,6 +32,8 @@ vm as :w <Enter>
 " Closing vim - cl
 map cl :q <Enter>
 map lc :q <Enter>
+" common clipboard
+set clipboard=unnamed 
 ' >> .vimrc.local
 
 map <Tab> :bNext <Enter>
