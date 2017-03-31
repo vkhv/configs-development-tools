@@ -33,10 +33,11 @@ vm as :w <Enter>
 map cl :q <Enter>
 map lc :q <Enter>
 " common clipboard
-set clipboard=unnamed 
+set clipboard=unnamed
+map <Tab> :bNext <Enter>
 ' >> .vimrc.local
 
-map <Tab> :bNext <Enter>
+
 
 
 echo 'Successfully installed'
