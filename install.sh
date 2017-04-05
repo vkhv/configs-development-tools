@@ -35,6 +35,7 @@ map lc :q <Enter>
 " common clipboard
 set clipboard=unnamed
 map <Tab> :bNext <Enter>
+set nolist
 ' >> .vimrc.local
 
 
