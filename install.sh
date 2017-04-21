@@ -35,7 +35,10 @@ map lc :q <Enter>
 " common clipboard
 set clipboard=unnamed
 map <Tab> :bNext <Enter>
+
+" spf13-vim disable tab highlighting
 set nolist
+let g:indent_guides_enable_on_vim_startup = 0
 ' >> .vimrc.local
 
 
