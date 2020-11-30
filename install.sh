@@ -14,9 +14,7 @@ alias :wq "exit"
 alias :q "exit"
 alias r "rm -rf"
 alias gl "git log"
-export JOBS=max
 ' >> .config/fish/config.fish
-
 
 ## vim
 
@@ -39,9 +37,6 @@ map e :Explore <Enter>
 " spf13-vim disable tab highlighting
 set nolist
 let g:indent_guides_enable_on_vim_startup = 0
-' >> .vimrc.local
-
-
-
+' >> .vimrc
 
 echo 'Successfully installed'
