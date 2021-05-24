@@ -2,6 +2,8 @@
 
 Yet another 💩 to simplify moving to another host.
 
+# TODO: https://www.youtube.com/watch?v=KKxhf50FIPI
+
 ## Easy Installation
 
 *Requires [vim.spf13](http://vim.spf13.com/) and [fishshell](http://fishshell.com/)*
